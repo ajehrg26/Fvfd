@@ -1,0 +1,6 @@
+{
+  "name": "Flint N Steel",
+  "description": "We don’t just make lighters. We make sparks. Born in India, built for the culture. Old soul. New flame. Unique designs. Bold attitude. Made to stand out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
